@@ -1,0 +1,20 @@
+body {
+    font-family: helvetica;
+    font-size: 22px;
+    color: seashell;
+  /*  background-color: black; */
+    opacity: 0.9;
+}
+
+.nav {
+    display: flex;
+    background-color: black;
+    height: 69px;
+    width: 100%;
+   /* position: fixed; */
+}
+
+.logo {
+    height: 69px;
+    background-image: url("../images/img-mission-background.jpg");
+}
